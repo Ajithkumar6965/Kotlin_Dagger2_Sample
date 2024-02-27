@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DaggerSample</string>
+    <string name="this_is_the_base_value">This is the base value</string>
 </resources>
